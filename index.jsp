@@ -10,7 +10,6 @@
     hi there 
     whatsup!!
 
-    <%=%>
     <Fieldset>
         <legend>
 
